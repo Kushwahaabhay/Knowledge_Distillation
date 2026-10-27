@@ -1,0 +1,4 @@
+model,questions,mean_latency_seconds,median_latency_seconds,mean_tokens_per_second,mean_keyword_coverage_proxy,adapter_size_mb,estimated_fp16_parameter_storage_mb,peak_gpu_memory_mb
+Base SLM,20,3.9878500000000003,3.7165,29.225,0.355,0.0,690.12,723.0
+Curated SFT,20,4.7959499999999995,3.8499999999999996,17.738500000000002,0.34500000000000003,10.86,693.24,737.8
+Response-level KD,20,5.567950000000001,4.5825,16.99,0.37,10.86,693.24,737.8

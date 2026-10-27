@@ -1,0 +1,6 @@
+streamlit>=1.43,<2.0
+transformers==4.57.1
+peft==0.21.2
+accelerate>=1.2.1
+safetensors>=0.5.3
+pandas>=2.2.0

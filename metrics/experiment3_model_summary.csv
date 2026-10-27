@@ -1,0 +1,6 @@
+model,questions,mean_latency_seconds,median_latency_seconds,mean_tokens_per_second,mean_keyword_coverage_proxy,mean_generated_tokens,outputs_at_300_token_cap
+Base SLM,50,3.786436,2.8377499999999998,24.1877,0.426334,87.0,0
+Curated SFT v1,50,4.790128,3.8761,15.27786,0.41133400000000003,73.32,0
+Response-level KD v1,50,5.359439999999999,4.5895,15.19998,0.426334,81.68,0
+Curated SFT v2,50,4.986728,4.22565,15.30818,0.44833399999999995,76.56,2
+Response-level KD v2,50,8.452328,6.793049999999999,15.67166,0.490334,131.92,2
